@@ -23,3 +23,7 @@ The task involves several key steps:
 The ultimate goal is to deploy a production-ready machine learning model capable of generating accurate forecasts for market quantity and prices for future months. 
 The insights derived from this model will aid stakeholders in making data-driven decisions, optimizing inventory management, pricing strategies, and resource allocation, 
 thereby enhancing overall efficiency and profitability in the market ecosystem.
+
+## nbviewer Link
+
+https://nbviewer.org/github/Menna2002/MarketPricePrediction/blob/master/src/TimeSeries.ipynb
